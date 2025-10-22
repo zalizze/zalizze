@@ -2,7 +2,7 @@
 
 ## Info
 
-Hi there, I'm Charles a bioinformatics engineer.
+Hi there, I'm Hsuin Alezzi a new kid a programming world.
 
 - :computer: I'm currently working for :whale: [MoBiDiC](https://github.com/mobidic) at :hospital: [CHU Montpellier](https://www.chu-montpellier.fr/en/)
 - :school: I'm currently learning : flask, streamlit
